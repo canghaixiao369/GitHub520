@@ -6,7 +6,7 @@ name: GitHub520
 on:
   push:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */2 * * *'   # 每两小时自动执行一次
 
 jobs:
   build:
