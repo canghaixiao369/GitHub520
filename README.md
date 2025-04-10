@@ -54,19 +54,19 @@
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 140.82.113.3                  gist.github.com
-52.216.213.137                github-cloud.s3.amazonaws.com
-52.216.36.249                 github-com.s3.amazonaws.com
-3.5.30.13                     github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.48.33                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.38.25                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.178.104                 github-cloud.s3.amazonaws.com
+3.5.24.250                    github-com.s3.amazonaws.com
+52.216.62.241                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.217.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.32.241                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 140.82.112.3                  github.com
 140.82.114.18                 github.community
-185.199.108.154               github.githubassets.com
+185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.109.153               github.io
+185.199.111.153               github.io
 185.199.110.133               github.map.fastly.net
-185.199.109.153               githubstatus.com
+185.199.111.153               githubstatus.com
 140.82.113.25                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
@@ -77,14 +77,14 @@
 185.199.110.133               private-user-images.githubusercontent.com
 
 
-# Update time: 2025-04-10T06:19:36+08:00
+# Update time: 2025-04-10T09:43:38+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-04-10T06:19:36+08:00
+该内容会自动定时更新， 数据更新时间：2025-04-10T09:43:38+08:00
 
 #### 2.1.2 修改 hosts 文件
 
